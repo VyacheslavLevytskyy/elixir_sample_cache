@@ -1,2 +1,5 @@
-# elixir_sample_cache
-Elixir sample cache
+# Elixir sample cache
+
+To run test cases:
+
+$ mix test
